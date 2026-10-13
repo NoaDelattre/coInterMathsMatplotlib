@@ -20,8 +20,8 @@ for i in range(5,15):
         j == j+2
 show()
 
-for i in range(3,6):
-    for j in range(5,15):
+for j in range(3,6):
+    for i in range(5,15):
         x1 = i
         y = j
         listex.append(x1)
